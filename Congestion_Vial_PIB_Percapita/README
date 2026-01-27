@@ -1,0 +1,60 @@
+# 🚦 Congestión vial y PIB per cápita
+
+## 📌 Objetivo del proyecto
+Analizar la relación entre los niveles de congestión vial y el PIB per cápita en distintas ciudades, con el fin de identificar patrones que ayuden a entender cómo la movilidad urbana puede impactar en la actividad económica.
+
+---
+
+## 📊 Descripción del dataset
+- **Variables principales:**
+  - Nivel de congestión (%)
+  - PIB per cápita
+  - Ciudad
+- **Fuente:** Dataset público (datos simulados para fines educativos)
+- **Registros:** Múltiples ciudades a nivel internacional
+
+---
+
+## 🧹 Proceso de análisis
+1. Limpieza de datos (valores nulos y formatos).
+2. Análisis exploratorio (distribuciones y estadísticas descriptivas).
+3. Identificación de outliers.
+4. Comparación entre congestión vial y PIB per cápita.
+5. Análisis relativo mediante z-scores para detectar ciudades con combinaciones críticas
+   (alta congestión y bajo PIB).
+
+---
+
+## 🛠️ Herramientas utilizadas
+- Python  
+- Pandas  
+- NumPy  
+- Matplotlib / Seaborn  
+
+---
+
+## 📈 Resultados principales
+- Se observó que las ciudades con mayor congestión tienden a presentar una mayor dispersión en el PIB per cápita.
+- Existen casos atípicos donde un alto nivel de congestión coincide con un PIB relativamente bajo.
+- El uso de z-scores permitió identificar ciudades con combinaciones potencialmente problemáticas desde el punto de vista económico y de movilidad.
+
+---
+
+## 📌 Conclusiones
+La congestión vial puede ser un factor relevante al analizar el desempeño económico de una ciudad. Aunque no implica causalidad directa, el análisis sugiere que una movilidad ineficiente podría estar asociada a contextos económicos menos favorables en ciertos casos.
+
+---
+
+## 🚀 Aprendizajes
+- Aplicación práctica de análisis exploratorio de datos.
+- Uso de métricas estadísticas para comparación relativa.
+- Interpretación de resultados más allá de los valores absolutos.
+- Comunicación clara de hallazgos a partir de visualizaciones.
+
+---
+
+## 📁 Estructura del proyecto
+- `data/` → Dataset utilizado  
+- `notebooks/` → Análisis en Jupyter Notebook  
+- `visualizations/` → Gráficas generadas  
+
