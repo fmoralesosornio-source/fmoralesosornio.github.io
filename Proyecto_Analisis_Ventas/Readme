@@ -1,21 +1,62 @@
-## Análisis de Ventas
+# 📊 Análisis de Ventas
 
-## Objetivo
-Analizar el comportamiento de ventas para detectar tendencias y oportunidades de mejora.
+## 📌 Objetivo del proyecto
+Analizar el comportamiento de las ventas con el fin de identificar patrones, tendencias y oportunidades de mejora que apoyen la toma de decisiones comerciales.
 
-## Dataset
-- Fuente: datos simulados / Kaggle
-- Registros: 10,000
+---
 
-## Proceso
-- Limpieza de datos
-- Análisis exploratorio
-- Visualización
+## 📊 Descripción del dataset
+- **Variables principales:**
+  - Fecha de venta
+  - Producto
+  - Categoría
+  - Ingresos
+  - Unidades vendidas
+- **Fuente:** Dataset simulado / educativo
+- **Registros:** Ventas de múltiples periodos
 
-## Herramientas
-- Python
-- Pandas
-- Excel
+---
 
-## Resultados
-Se identificaron patrones de crecimiento estacional y productos con bajo rendimiento.
+## 🧹 Proceso de análisis
+1. Limpieza de datos (duplicados, valores nulos, formatos de fecha).
+2. Análisis exploratorio de datos (EDA).
+3. Segmentación por categorías y productos.
+4. Análisis temporal de ventas.
+5. Identificación de productos con bajo y alto rendimiento.
+
+---
+
+## 🛠️ Herramientas utilizadas
+- Python  
+- Pandas  
+- NumPy  
+- Excel  
+- Matplotlib / Seaborn  
+
+---
+
+## 📈 Resultados principales
+- Se identificaron tendencias estacionales en el comportamiento de ventas.
+- Algunos productos concentran la mayor parte de los ingresos.
+- Existen categorías con bajo rendimiento que representan oportunidades de optimización.
+
+---
+
+## 📌 Conclusiones
+El análisis permitió detectar patrones claros de consumo y desempeño por producto, lo que facilita la toma de decisiones estratégicas en áreas como inventario, promociones y planeación comercial.
+
+---
+
+## 🚀 Aprendizajes
+- Limpieza y preparación de datos reales.
+- Análisis exploratorio estructurado.
+- Segmentación de información para toma de decisiones.
+- Interpretación de datos para contexto de negocio.
+
+---
+
+## 📁 Estructura del proyecto
+- `data/` → Dataset utilizado  
+- `notebooks/` → Análisis en Jupyter Notebook  
+- `visualizations/` → Gráficas generadas  
+
