@@ -31,3 +31,6 @@ A continuación algunos de los proyectos que he desarrollado:
 ---
 
 ## 📫 Contacto
+- **correo:** fmoralesosornio@gmail.com
+- **teléfono:** 442-833-9200
+- **Linkedn:** www.linkedin.com/in/fernanda-morales-45567b18a
