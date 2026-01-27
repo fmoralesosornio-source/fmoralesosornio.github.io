@@ -1,0 +1,21 @@
+# Análisis de Ventas
+
+## Objetivo
+Analizar el comportamiento de ventas para detectar tendencias y oportunidades de mejora.
+
+## Dataset
+- Fuente: datos simulados / Kaggle
+- Registros: 10,000
+
+## Proceso
+- Limpieza de datos
+- Análisis exploratorio
+- Visualización
+
+## Herramientas
+- Python
+- Pandas
+- Excel
+
+## Resultados
+Se identificaron patrones de crecimiento estacional y productos con bajo rendimiento.
