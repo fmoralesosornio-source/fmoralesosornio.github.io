@@ -1,5 +1,5 @@
 # fmoralesosornio.github.io
-Fernanda Morales Portafolio /
+**Fernanda Morales / Portafolio**
 Mis Proyectos
 
 ¡Hola! 👋  
