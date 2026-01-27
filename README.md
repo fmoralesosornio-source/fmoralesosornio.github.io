@@ -1,6 +1,6 @@
 # fmoralesosornio.github.io
 **Fernanda Morales / Portafolio**
-Mis Proyectos
+- Mis Proyectos
 
 ¡Hola! 👋  
 Soy Data Analyst Jr con conocimientos en Excel, SQL y Python, enfocada en análisis de datos, limpieza, visualización y generación de insights para la toma de decisiones.
